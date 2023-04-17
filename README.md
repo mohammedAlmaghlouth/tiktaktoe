@@ -24,7 +24,7 @@ To use the Tic-Tac-Toe Intelligent Agent, follow these steps:
 1. Download the project
 2. Extract the contents of the zip file to a directory on your computer.
 3. Open a terminal or command prompt in the directory where the program was extracted.
-4. Run the command `python tic_tac_toe.py` to start the program.
+4. Run the program.
 5. Follow the instructions in the graphical user interface to play a game of tic-tac-toe against the intelligent agent.
 
 ## Conclusion
